@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "5b4575d9f44aa4f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b6ea88fc7bd676",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e75828be62d38fb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4927ef921e64f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8e7a3d6f6256fd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fc0f70aa10f5738",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e221c612a1cf7c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a504a7bf4bd3470c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246f1e5bdcf6ed32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "82b6ea88fc7bd676",
+  "lastOpenFiles": [
+    "README.md",
+    "basics.md",
+    "path/to/img.jpg.md",
+    "img/Arduino_explications.png"
+  ]
+}
