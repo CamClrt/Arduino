@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Basics/Electronique.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Basics/Electronique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,14 @@
   },
   "active": "82b6ea88fc7bd676",
   "lastOpenFiles": [
+    "Basics/Electronique.md",
+    "Basics/Electricite.md",
+    "Basics/Broches.md",
+    "Tools/Breadboard.md",
     "README.md",
-    "basics.md",
-    "path/to/img.jpg.md",
-    "img/Arduino_explications.png"
+    "Assets.md",
+    "Assets/img/breadboard.png",
+    "Assets/img/Arduino_explications.png",
+    "path/to/img.jpg.md"
   ]
 }
