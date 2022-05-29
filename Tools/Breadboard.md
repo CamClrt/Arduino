@@ -1,6 +1,6 @@
 # Breadboard
 
-![](Assets/img/breadboard.png "Principe de la breadboard")
+![](../Assets/img/breadboard.png "Principe de la breadboard")
 
 ## Alimenter les composants
 ```note
